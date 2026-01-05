@@ -1,4 +1,4 @@
-//! # Implementation of the OCPP 2.0.1 Specification
+//! # Implementation of the OCPP 2.1 Specification
 //!
 //! ## Messages, Datatypes & Enumerations
 //!
